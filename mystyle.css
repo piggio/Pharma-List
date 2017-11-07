@@ -1,0 +1,274 @@
+@font-face {
+    font-family: apercu pro;
+    src: url(font/apercu_regular_pro.otf);
+}
+
+
+@font-face {
+    font-family: blanche de la fontaine;
+    src: url(font/blanche.ttf);
+}
+
+
+
+
+
+
+html, body{height:100%;}
+
+
+
+.navbar-brand img {
+	
+    
+    margin-right: 10px;
+}
+
+
+.form-control {
+	
+    font-size: 36px;
+    
+    
+}
+
+
+.bg-faded {
+	
+    
+    
+   
+    border-bottom-right-radius: 4px;
+    background-color: #2D5096;
+    
+    
+    
+}
+
+
+.navbar-brand {
+	font-size: 51px;
+}
+
+
+
+
+.container-fluid {
+    
+    
+    background-image: url(img/sfocata.png);
+    background-size: cover;
+        padding-left: 0px;
+    padding-right: 0px;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+}
+
+a {
+    
+    
+    color: aliceblue;
+}
+
+  body {
+    
+    
+  
+    background-color: whitesmoke;
+        
+    
+    
+    
+    
+}
+
+
+
+.blockNav {
+    
+        width: 100%;
+    
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: ghostwhite;
+     
+    
+}
+
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler {
+    color: ghostwhite;
+    font-family: questrial;
+}
+
+.row {
+	margin-top: 77px;
+}
+
+
+.jumbotron {
+    
+    
+        background-color: rgba(45, 131, 150, 0.88);
+    
+    
+    
+    
+}
+
+
+
+h5 {
+    
+    font-weight: 100;
+    
+    
+    
+}
+
+
+.jumbotron h1 {
+    
+    
+    color: aliceblue;
+    font-family: Didact Gothic;
+   
+    font-size: 50px;
+    
+}
+
+
+
+.jumbotron p {
+	 
+    
+    font-family: Didact Gothic;
+    
+    
+    color: aliceblue;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+.btn {
+	    border-radius: 25px;
+        padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+
+
+hr {
+    
+    border-top: 1px solid rgba(247, 247, 249, 0.52);
+    
+    
+}
+
+
+
+#user-list {
+	
+}
+
+
+
+.table {
+    
+    
+    display: none;
+        width: 1140px;
+   -webkit-box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+-moz-box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+box-shadow: -5px 14px 103px -16px rgba(0,0,0,0.55);
+   
+  
+
+    
+}
+
+
+.table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(2, 116, 215, 0.29);
+}
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #E5462F;
+    border-color: #0275d8;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+.tabUsers {
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+
+
+
+.text-muted {
+	
+    
+        background-color: #7d7d7d;
+        height: 103px;
+    
+    
+}
+
+
+
+
+
+
+.text-muted .container {
+	
+    padding-top: 24px;
+    
+    
+}
+
+
+
+
+.text-muted p {
+	color: aliceblue;
+        padding-top: 17px;
+
+}
